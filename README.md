@@ -108,3 +108,14 @@ This dashboard enables organizations to:
 ├── Docs/ # Documentation & dashboard images
 │ └── hr_dashboard.png
 └── README.md
+
+
+## 📬 Contact
+
+**Dara Sum**
+Data Analyst | SQL & Power BI
+<a href="https://www.linkedin.com/in/darasum-data" target="_blank" 
+   style="display: inline-block; padding: 10px 20px; background-color: #0A66C2; 
+          color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Connect on LinkedIn
+</a>
