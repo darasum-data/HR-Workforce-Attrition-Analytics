@@ -103,35 +103,10 @@ This dashboard enables organizations to:
 
 ## 📂 Project Structure
 HR-Workforce-Attrition-Analytics/
-│
+├── Dashboard/
+├── Data/
+├── Docs/
 ├── README.md
-│
-├── data/
-│   ├── raw/
-│   │   └── hr_employee_attrition_raw.csv
-│   │
-│   └── processed/
-│       └── hr_employee_attrition_cleaned.csv
-│
-├── notebooks/
-│   └── HR_Attrition_Exploratory_Analysis.ipynb
-│
-├── sql/
-│   └── hr_attrition_analysis.sql
-│
-├── powerbi/
-│   └── HR_Workforce_Attrition_Dashboard.pbix
-│
-├── docs/
-│   ├── dashboard_overview.png
-│   ├── attrition_by_department.png
-│   ├── attrition_by_age_group.png
-│   └── attrition_by_job_role.png
-│
-├── reports/
-│   └── HR_Attrition_Insights_Report.pdf
-│
-└── requirements.txt
 
 
 
